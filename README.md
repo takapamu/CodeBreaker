@@ -1,2 +1,2 @@
-<h2>Code Breaker</3>
+<h2>Code Breaker</h2>
 数字合わせゲームです
